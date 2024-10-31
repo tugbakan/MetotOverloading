@@ -1,0 +1,14 @@
+C:\Users\Tugba\Desktop\Patika\Pratikler\MetotOverloading\bin\Debug\net8.0\MetotOverloading.exe
+C:\Users\Tugba\Desktop\Patika\Pratikler\MetotOverloading\bin\Debug\net8.0\MetotOverloading.deps.json
+C:\Users\Tugba\Desktop\Patika\Pratikler\MetotOverloading\bin\Debug\net8.0\MetotOverloading.runtimeconfig.json
+C:\Users\Tugba\Desktop\Patika\Pratikler\MetotOverloading\bin\Debug\net8.0\MetotOverloading.dll
+C:\Users\Tugba\Desktop\Patika\Pratikler\MetotOverloading\bin\Debug\net8.0\MetotOverloading.pdb
+C:\Users\Tugba\Desktop\Patika\Pratikler\MetotOverloading\obj\Debug\net8.0\MetotOverloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tugba\Desktop\Patika\Pratikler\MetotOverloading\obj\Debug\net8.0\MetotOverloading.AssemblyInfoInputs.cache
+C:\Users\Tugba\Desktop\Patika\Pratikler\MetotOverloading\obj\Debug\net8.0\MetotOverloading.AssemblyInfo.cs
+C:\Users\Tugba\Desktop\Patika\Pratikler\MetotOverloading\obj\Debug\net8.0\MetotOverloading.csproj.CoreCompileInputs.cache
+C:\Users\Tugba\Desktop\Patika\Pratikler\MetotOverloading\obj\Debug\net8.0\MetotOverloading.dll
+C:\Users\Tugba\Desktop\Patika\Pratikler\MetotOverloading\obj\Debug\net8.0\refint\MetotOverloading.dll
+C:\Users\Tugba\Desktop\Patika\Pratikler\MetotOverloading\obj\Debug\net8.0\MetotOverloading.pdb
+C:\Users\Tugba\Desktop\Patika\Pratikler\MetotOverloading\obj\Debug\net8.0\MetotOverloading.genruntimeconfig.cache
+C:\Users\Tugba\Desktop\Patika\Pratikler\MetotOverloading\obj\Debug\net8.0\ref\MetotOverloading.dll
